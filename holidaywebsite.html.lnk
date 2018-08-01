@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>staycation</title>
+        <link href='css/bootstrap.css' rel='stylesheet'>
         <h1>you don't need to go away to have a plesant holiday</h1>
        <!--<link rel="stylesheet" type="text/css" href="styles.css">-->
     </head>
